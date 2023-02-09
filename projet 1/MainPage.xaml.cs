@@ -3,6 +3,7 @@ using OpenQA.Selenium.Chrome;
 
 namespace projet_1;
 
+git push -u origin main
 public partial class MainPage : ContentPage
 {
 
